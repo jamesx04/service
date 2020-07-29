@@ -1,4 +1,4 @@
-module github.com/jamesx04/service
+module go.jamesx04.org/service
 
 go 1.12
 
